@@ -58,4 +58,11 @@
         return Credential.copy_credential(account_name)
 
     def main():
-    
+        print(' ')
+        print('Hey! Welcome to Password Manager.')
+        while True:
+            print(' ')
+
+            print('Use these codes to navigate: \n ca-Create an Account \n li-Log In \n ex-Exit')
+            short_code = input('Enter a choice: ').lower().strip()
+            if short_code == 'ex':
