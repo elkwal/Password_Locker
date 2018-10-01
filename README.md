@@ -9,7 +9,7 @@ These are the behaviours/features that the application implements for use by a u
 As a user I would like:
 * To create an account with my details - log in and password
 * Store my existing login credentials
-@@ -17,14 +17,14 @@ As a user I would like:
+ As a user I would like:
 ## Specifications
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
@@ -31,13 +31,13 @@ As a user I would like:
 | Exit application | **Enter: ex** | Exit the current navigation stage |
 ## SetUp / Installation Requirements
 ### Prerequisites
-@@ -45,7 +45,11 @@ As a user I would like:
+ As a user I would like:
        $ chmod +user.py
        $ ./main.py
 
 ## Testing the Application
 * To run the tests for the class file:
-        $ python3.6 user_test.py
+        $ python3.7 user_test.py
         
 MIT License
 Copyright (c) 2017 Moringa school
