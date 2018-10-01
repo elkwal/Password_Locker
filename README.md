@@ -30,3 +30,11 @@ As a user I would like:
 | Display prompt for which credential to copy | **Enter: copy** | Enter the site name of the credential you wish to copy. |
 | Exit application | **Enter: ex** | Exit the current navigation stage |
 ## SetUp / Installation Requirements
+### Prerequisites
+@@ -45,7 +45,11 @@ As a user I would like:
+       $ chmod +user.py
+       $ ./main.py
+
+## Testing the Application
+* To run the tests for the class file:
+        $ python3.6 user_test.py
