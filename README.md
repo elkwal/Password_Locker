@@ -38,3 +38,6 @@ As a user I would like:
 ## Testing the Application
 * To run the tests for the class file:
         $ python3.6 user_test.py
+
+## Technologies Used
+* Python3.7
