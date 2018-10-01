@@ -38,9 +38,9 @@ As a user I would like:
 ## Testing the Application
 * To run the tests for the class file:
         $ python3.6 user_test.py
+        
 MIT License
-
-Copyright (c) 2017 Mary Ng'ang'a
+Copyright (c) 2017 Moringa school
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
