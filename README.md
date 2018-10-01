@@ -42,7 +42,7 @@ As a user I would like:
 ## Technologies Used
 * Python3.7
 
-#LICENSE
+###LICENSE
 MIT License
 
 Copyright (c) 2017 Moringa school
