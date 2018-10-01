@@ -56,3 +56,6 @@
     	Function to copy a credentials details to the clipboard
     	"""
         return Credential.copy_credential(account_name)
+
+    def main():
+    
