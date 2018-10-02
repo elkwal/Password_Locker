@@ -31,7 +31,7 @@ As a user I would like:
 | Exit application | **Enter: ex** | Exit the current navigation stage |
 ## SetUp / Installation Requirements
 ### Prerequisites
-@@ -45,7 +45,11 @@ As a user I would like:
+As a user I would like:
        $ chmod +user.py
        $ ./main.py
 

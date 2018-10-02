@@ -62,8 +62,8 @@ class Credential:
         """
 		Function to generate an 6 character password for a credential
 		"""
-        generate password = ''.join(random.choice(char) for _ in range(size))
-        return generate password
+        generate_password = ''.join(random.choice(char) for _ in range(size))
+        return generate_password
 
     @classmethod
     def display_credentials(cls, user_name):
